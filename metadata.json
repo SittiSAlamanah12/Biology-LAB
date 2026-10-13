@@ -1,0 +1,6 @@
+{
+  "name": "BioLab 3D SMA - Media Pembelajaran & Game Biologi Interaktif",
+  "description": "Platform pembelajaran biologi interaktif SMA dengan visualisasi 3D organ tubuh dan sel, game edukasi seru, dan kuis pemahaman konsep berbasis Kurikulum Merdeka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
